@@ -3,8 +3,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Gmail credentials
-sender_email = "josephkevong4rkis@gmail.com"
-password = "zmku axkl ijsi qexy"  # Your Google App Password
+sender_email = # your email
+password = # Your Google App Password
 
 # List of recipients
 recipients = ["person1@gmail.com", "person2@gmail.com", "person3@gmail.com"]
@@ -35,3 +35,4 @@ try:
 
 except Exception as e:
     print(f"❌ Error: {e}")
+
